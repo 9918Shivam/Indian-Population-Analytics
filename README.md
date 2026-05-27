@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Population Analytics Dashboard
+# Indian Population Analytics Dashboard
 
 An interactive **Power BI dashboard** analyzing India's population distribution across all 35 states and union territories — covering demographics, literacy, urban-rural split, sex ratio, and population density.
 
@@ -125,7 +125,7 @@ Indian-Population-Analytics/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Indian-Population-Analytics.git
+   git clone https://github.com/9918Shivam/Indian-Population-Analytics.git
    ```
 
 2. **Open the dashboard**
@@ -143,15 +143,8 @@ Indian-Population-Analytics/
 
 If you found this project helpful or have feedback, feel free to connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-chaurasiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/omshivam9918)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-chaurasiya-8515a722b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omshivam9918/)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 *Made with 📊 Power BI by Shivam Chaurasiya*
